@@ -17,3 +17,5 @@ Skills:
 ● Ability to integrate technology and management to develop a comprehensive model for soil erosion estimation
 
 ● Effective communication skills to present findings to both technical and non-technical stakeholders
+
+![soil erosion](https://github.com/user-attachments/assets/4d139349-956d-414f-9b5b-c7e8eaa7528e)
